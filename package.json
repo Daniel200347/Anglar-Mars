@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "ng-run": "ng new Mars"
+  },
+  "dependencies": {
+    "@angular/cli": "^15.0.4"
+  }
+}
